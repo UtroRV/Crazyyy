@@ -1,0 +1,16 @@
+:root {
+    --roxo-principal: #2f0030;
+    --laranja-secundario: #f8a836;
+    --botao-vermelha: #ce1809;
+    --cor-de-fundo: #71342f;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--roxo-principal);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
